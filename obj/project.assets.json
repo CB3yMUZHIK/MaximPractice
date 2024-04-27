@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\practice\\task4\\task4.csproj",
-      "projectName": "task4",
-      "projectPath": "C:\\practice\\task4\\task4.csproj",
+      "projectUniqueName": "C:\\practice\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\practice\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\danone\\.nuget\\packages\\",
-      "outputPath": "C:\\practice\\task4\\obj\\",
+      "outputPath": "C:\\practice\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danone\\AppData\\Roaming\\NuGet\\NuGet.Config"
